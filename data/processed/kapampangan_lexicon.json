@@ -1,0 +1,3287 @@
+[
+  {
+    "word":"abu",
+    "lemma":"abu",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"ashes",
+    "tl_translation":"abo",
+    "meaning":"The solid remnants of fires",
+    "example_sentence":"Mitu na ing kayu, atilu ne mu la ring abu",
+    "details":"The Austronesian Comparative Dictionary",
+    "source":{
+      "source_id":"dict_001",
+      "link":"https:\/\/acd.clld.org\/languages\/291"
+    }
+  },
+  {
+    "word":"abung",
+    "lemma":"abung",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"hut; shelter",
+    "tl_translation":"kubo",
+    "meaning":"Small simple dwelling",
+    "example_sentence":"Ing talapanulu atin yang abung king talon.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"achi",
+    "lemma":"achi",
+    "variants":"ate",
+    "pos":"NOUN",
+    "en_translation":"older sister",
+    "tl_translation":"ate",
+    "meaning":"Female sibling older than oneself",
+    "example_sentence":"Achi ku ing sinaup king assignment ku.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"adua",
+    "lemma":"adua",
+    "variants":"aduwa",
+    "pos":"NUM",
+    "en_translation":"two",
+    "tl_translation":"dalawa",
+    "meaning":"Number representing “2”",
+    "example_sentence":"Aduang anak ing maki-sapatos.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"adwang dalan",
+    "lemma":"adwang dalan",
+    "variants":"None",
+    "pos":"NUM",
+    "en_translation":"two hundred",
+    "tl_translation":"dalawang daan",
+    "meaning":"Number representing “200”",
+    "example_sentence":"Adwang dalan la reng manok.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"agpang",
+    "lemma":"agpang",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"fitting; appropriate",
+    "tl_translation":"angkop",
+    "meaning":"Something that matches or suits",
+    "example_sentence":"Agpang ya ing sapatu kaku.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"albug",
+    "lemma":"a'lbug",
+    "variants":"albug",
+    "pos":"NOUN",
+    "en_translation":"flood",
+    "tl_translation":"baha",
+    "meaning":"A large overflow of water submerging land",
+    "example_sentence":"Ing albug malalam ya",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"albugan",
+    "lemma":"albug",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"west",
+    "tl_translation":"kanluran",
+    "meaning":"The direction in which the sun goes down in the evening",
+    "example_sentence":"Ding anggang tau king babo ning mabilug a yatu ibat king albugan angga king aslagan",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"aldo",
+    "lemma":"aldo",
+    "variants":"aldu",
+    "pos":"NOUN",
+    "en_translation":"day",
+    "tl_translation":"araw",
+    "meaning":"A unit of time equal to 24 hours.",
+    "example_sentence":"Malino ya ing aldo",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"alili",
+    "lemma":"alili",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"snail",
+    "tl_translation":"suso",
+    "meaning":"A mollusk with a coiled shell",
+    "example_sentence":"Maragul la reng alili king sapa.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"alisusu",
+    "lemma":"alisusu",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"breast milk",
+    "tl_translation":"gatas",
+    "meaning":"Milk from a mother’s breast",
+    "example_sentence":"Ing alisusu masustansya para kareng anak.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"alitaptap",
+    "lemma":"alitaptap",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"firefly",
+    "tl_translation":"alitaptap",
+    "meaning":"Insect that glows in the dark",
+    "example_sentence":"Mekitakung alitaptap king bengi.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"alti",
+    "lemma":"alti",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"sky; heaven",
+    "tl_translation":"langit",
+    "meaning":"The region of the atmosphere above the earth",
+    "example_sentence":"Malino ing bulan king alti.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"anac-manuc",
+    "lemma":"anac-manuc",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"chick",
+    "tl_translation":"sisiw",
+    "meaning":"Young chicken",
+    "example_sentence":"Reng anac-manuc mituturu king indu ra.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"anam",
+    "lemma":"anam",
+    "variants":"None",
+    "pos":"NUM",
+    "en_translation":"six",
+    "tl_translation":"anim",
+    "meaning":"Number representing “6”",
+    "example_sentence":"Anam la reng pinggan.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"andam",
+    "lemma":"andam",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to prepare",
+    "tl_translation":"ihanda",
+    "meaning":"To make ready",
+    "example_sentence":"Andaman mu ing pamangan.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"angga",
+    "lemma":"angga",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"limit; until",
+    "tl_translation":"hangganan",
+    "meaning":"Point or extent of reach",
+    "example_sentence":"Angga ne king lunes ing exam.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"apat",
+    "lemma":"apat",
+    "variants":"None",
+    "pos":"NUM",
+    "en_translation":"four",
+    "tl_translation":"apat",
+    "meaning":"Number representing “4”",
+    "example_sentence":"Apat la reng bisitas.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"api",
+    "lemma":"api",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"fire",
+    "tl_translation":"apoy",
+    "meaning":"The state of burning that produces flames that send out heat and light",
+    "example_sentence":"Ila mipadurutan lang balamu api",
+    "details":"Kapampangan People and Their Language: A Case Study",
+    "source":{
+      "source_id":"acad_001",
+      "link":"https:\/\/www.researchgate.net\/publication\/358840329_Kapampangan_People_and_Their_Language_A_Case_Study"
+    }
+  },
+  {
+    "word":"apú",
+    "lemma":"apú",
+    "variants":"apo",
+    "pos":"NOUN",
+    "en_translation":"grandchild",
+    "tl_translation":"apo",
+    "meaning":"A child of one's son or daughter",
+    "example_sentence":"Malagu ya ing apu ku at masikan yang manyabi",
+    "details":"The Austronesian Comparative Dictionary",
+    "source":{
+      "source_id":"dict_001",
+      "link":"https:\/\/acd.clld.org\/languages\/291"
+    }
+  },
+  {
+    "word":"ápu",
+    "lemma":"ápu",
+    "variants":"apo",
+    "pos":"NOUN",
+    "en_translation":"grandparent",
+    "tl_translation":"lola\/lolo",
+    "meaning":"A parent of one's father or mother",
+    "example_sentence":"Makasalikut ya ing apu ku king batalan",
+    "details":"The Austronesian Comparative Dictionary",
+    "source":{
+      "source_id":"dict_001",
+      "link":"https:\/\/acd.clld.org\/languages\/291"
+    }
+  },
+  {
+    "word":"apulu",
+    "lemma":"apulu",
+    "variants":"apolo",
+    "pos":"NUM",
+    "en_translation":"ten",
+    "tl_translation":"sampu",
+    "meaning":"Number representing “10”",
+    "example_sentence":"Apulu la reng libro.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"apun",
+    "lemma":"apun",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"lime (for betel chewing)",
+    "tl_translation":"apog",
+    "meaning":"Powder used for betel chewing",
+    "example_sentence":"Ing apun gagamitan da king mamang.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"asalubung",
+    "lemma":"salubung",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"ecountered",
+    "tl_translation":"nakasalubong",
+    "meaning":"Meet (someone) unexpectedly",
+    "example_sentence":"Akasalubung ke i Marites",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"asín",
+    "lemma":"asín",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"salt",
+    "tl_translation":"asin",
+    "meaning":"A crystalline compound used for seasoning food, as a preservative, etc.",
+    "example_sentence":"E masanting ing sabaw nung ala yang asin.",
+    "details":"The Austronesian Comparative Dictionary",
+    "source":{
+      "source_id":"dict_001",
+      "link":"https:\/\/acd.clld.org\/languages\/291"
+    }
+  },
+  {
+    "word":"aslag",
+    "lemma":"aslag",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"sunlight",
+    "tl_translation":"sikat ng araw",
+    "meaning":"Bright light from the sun",
+    "example_sentence":"Ing aslag linub ya king awang.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"aslam",
+    "lemma":"aslam",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"sour",
+    "tl_translation":"maasim",
+    "meaning":"Taste of acid",
+    "example_sentence":"Aslam ya ing mangga.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"ásu",
+    "lemma":"ásu",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"dog",
+    "tl_translation":"aso",
+    "meaning":"A domesticated canid, Canis familiaris, bred in many varieties.",
+    "example_sentence":"Masanting ya ing asu a manyaman a bantay king bale.",
+    "details":"The Austronesian Comparative Dictionary",
+    "source":{
+      "source_id":"dict_001",
+      "link":"https:\/\/acd.clld.org\/languages\/291"
+    }
+  },
+  {
+    "word":"atap",
+    "lemma":"atap",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"roof",
+    "tl_translation":"bubong",
+    "meaning":"The structure forming the upper covering of a building or vehicle",
+    "example_sentence":"Ating murit ketang atap",
+    "details":"Kapampangan People and Their Language: A Case Study",
+    "source":{
+      "source_id":"acad_001",
+      "link":"https:\/\/www.researchgate.net\/publication\/358840329_Kapampangan_People_and_Their_Language_A_Case_Study"
+    }
+  },
+  {
+    "word":"atiu",
+    "lemma":"atiu",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to exist; to be there",
+    "tl_translation":"naroon",
+    "meaning":"Expresses presence in a place",
+    "example_sentence":"Atsiu ya pa king pisamban ing pari.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"atlu",
+    "lemma":"atlu",
+    "variants":"atlo",
+    "pos":"NUM",
+    "en_translation":"three",
+    "tl_translation":"tatlo",
+    "meaning":"Number representing “3”",
+    "example_sentence":"Atlu la reng mangga.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"atluan",
+    "lemma":"atlu",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"trinity; ternary",
+    "tl_translation":"tatluhan",
+    "meaning":"A set of three",
+    "example_sentence":"Atluan la reng panyalung ku.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"atul",
+    "lemma":"atul",
+    "variants":"atul",
+    "pos":"NOUN",
+    "en_translation":"decision",
+    "tl_translation":"hatol",
+    "meaning":"The act of making a choice or judgement",
+    "example_sentence":"Inya ing atul na.",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"awang",
+    "lemma":"awang",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"window",
+    "tl_translation":"bintana",
+    "meaning":"A space usually filled with glass in the wall of a building or in a vehicle",
+    "example_sentence":"Sara me itang awang.",
+    "details":"Speaking Kapampangan",
+    "source":{
+      "source_id":"text_004",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"ayali",
+    "lemma":"ayali",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to borrow",
+    "tl_translation":"humiram",
+    "meaning":"Take something temporarily",
+    "example_sentence":"Ayali kung lapis.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"babayat",
+    "lemma":"bayat",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to get heavy",
+    "tl_translation":"bumigat",
+    "meaning":"Describes something becoming heavier in weight",
+    "example_sentence":"Babayat ya ing maleta uling dinagdagan mu pa",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"balamu",
+    "lemma":"balamu",
+    "variants":"None",
+    "pos":"ADV",
+    "en_translation":"as if; like",
+    "tl_translation":"parang",
+    "meaning":"Expresses comparison",
+    "example_sentence":"Balamu ali ka makanyan.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"balangid",
+    "lemma":"balangid",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"rainbow",
+    "tl_translation":"bahaghari",
+    "meaning":"A multicolored arc in the sky after rain",
+    "example_sentence":"Menakit kung balangid kaibat ning albug.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"balas",
+    "lemma":"balas",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"sand",
+    "tl_translation":"buhangin",
+    "meaning":"Granular material on beaches\/deserts",
+    "example_sentence":"Madakal a balas king ilug.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"balati",
+    "lemma":"balati",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"leprosy",
+    "tl_translation":"ketong",
+    "meaning":"Skin disease",
+    "example_sentence":"Ing balati kasakit yang maragul.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bale",
+    "lemma":"bale",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"house",
+    "tl_translation":"bahay",
+    "meaning":"Building where people live, offering shelter, comfort, and space for daily activities.",
+    "example_sentence":"Nókarin ya ing balé mu?",
+    "details":"100 Common Kapampangan Words (A to Y)",
+    "source":{
+      "source_id":"text_002",
+      "link":"https:\/\/discover.hubpages.com\/education\/100-Common-Kapampangan-Words-A-Y"
+    }
+  },
+  {
+    "word":"balikas",
+    "lemma":"balikas",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"speech, phrase",
+    "tl_translation":"pananalita",
+    "meaning":"Way of speaking",
+    "example_sentence":"Masanting ya ing balikas na.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"balugbug",
+    "lemma":"balugbug",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"ear",
+    "tl_translation":"tainga",
+    "meaning":"Organs that detect and analyze sound",
+    "example_sentence":"Talnan me balugbug",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"banglus",
+    "lemma":"banglus",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"milkfish",
+    "tl_translation":"bangus",
+    "meaning":"A common fish raised in ponds",
+    "example_sentence":"Mangan tamu banglus king pamangan.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bapa",
+    "lemma":"bapa",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"uncle",
+    "tl_translation":"tiyo\/tito",
+    "meaning":"Brother of father or mother",
+    "example_sentence":"Biyasa ya maggitara i bapa.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"baras",
+    "lemma":"baras",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"rice bran",
+    "tl_translation":"darak",
+    "meaning":"By-product of milling rice",
+    "example_sentence":"Ing baras gagamitan pamangan ning babi.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"barit",
+    "lemma":"barit",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"harvest",
+    "tl_translation":"anihan",
+    "meaning":"Gathering crops",
+    "example_sentence":"Ing barit dakal ya this bulan.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"barongga",
+    "lemma":"rongga",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to throw at",
+    "tl_translation":"ihagis sa\/ibato",
+    "meaning":"To throw something at a person, object, or target",
+    "example_sentence":"Baronggan da ing bola king dingding",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"basang",
+    "lemma":"basang",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"wet; damp",
+    "tl_translation":"basa",
+    "meaning":"Covered with liquid",
+    "example_sentence":"Basang-basa ku king uran.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"basu",
+    "lemma":"basu",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"glass; cup",
+    "tl_translation":"baso",
+    "meaning":"Vessel for drinking",
+    "example_sentence":"Magdala kang basu ning gatas.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bating",
+    "lemma":"bating",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to greet",
+    "tl_translation":"bumati",
+    "meaning":"Express salutation",
+    "example_sentence":"Bating mu ing aliwa mu panyalung.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"batuk",
+    "lemma":"batuk",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"cough",
+    "tl_translation":"ubo",
+    "meaning":"Expelling air from lungs abruptly",
+    "example_sentence":"E ku makatulud uling atin kung batuk.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bayabas",
+    "lemma":"bayabas",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"guava",
+    "tl_translation":"bayabas",
+    "meaning":"Tropical fruit",
+    "example_sentence":"Mekitakung bayabas king talon.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bayu",
+    "lemma":"bayu",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"new",
+    "tl_translation":"bago",
+    "meaning":"Recently made or obtained",
+    "example_sentence":"Bayu yang asbuk ing sapatu.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bebe",
+    "lemma":"bebe",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"edge",
+    "tl_translation":"pampang",
+    "meaning":"Refers to the edge or bank, especially of a body of water",
+    "example_sentence":"Susulung ku king bebe ning ilug",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"bendisyon",
+    "lemma":"bendisyon",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"blessing",
+    "tl_translation":"basbas",
+    "meaning":"Religious invocation for protection",
+    "example_sentence":"Inyatang neng pari ing bendisyon.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bengi-bengi",
+    "lemma":"bengi",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"dusk; early evening",
+    "tl_translation":"takipsilim",
+    "meaning":"Time between sunset and night",
+    "example_sentence":"Masanting ya ing bengi-bengi king marangle.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"biclat",
+    "lemma":"buclat",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to open",
+    "tl_translation":"buksan",
+    "meaning":"Allowing access, passage, or a view through an empty space; not closed or blocked up",
+    "example_sentence":"Biclat na ning atchi mu detang delata",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"bilug",
+    "lemma":"bilug",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"circle; round",
+    "tl_translation":"bilog",
+    "meaning":"Shape without corners",
+    "example_sentence":"Ing bulan bilug yang malino.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bisa",
+    "lemma":"bisa",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"want",
+    "tl_translation":"gusto",
+    "meaning":"Have a desire to possess or do (something)",
+    "example_sentence":"Bisa kang mangan?",
+    "details":"Speaking Kapampangan",
+    "source":{
+      "source_id":"text_004",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"bitis",
+    "lemma":"bitis",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"leg",
+    "tl_translation":"binti",
+    "meaning":"The limb used for walking.",
+    "example_sentence":"Malaku ya ing bitis na",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"bitis-bituin",
+    "lemma":"bituin",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"star",
+    "tl_translation":"bituin",
+    "meaning":"Celestial body visible at night",
+    "example_sentence":"Masanting la reng bitis-bituin king alti.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"biye",
+    "lemma":"biye",
+    "variants":"bie",
+    "pos":"NOUN",
+    "en_translation":"life",
+    "tl_translation":"buhya",
+    "meaning":"Refers to existence or the state of being alive",
+    "example_sentence":"Ing biye metung yang regalu ning Dios",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"buis",
+    "lemma":"buis",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"tax",
+    "tl_translation":"buwis",
+    "meaning":"sovereign power exercised by the State to enforce proportional contributions from its citizens to fund the government and provide public services",
+    "example_sentence":"E ya pa memayad buis.",
+    "details":"Kapampangan Lemmas",
+    "source":{
+      "source_id":"dict_009",
+      "link":"https:\/\/en.wiktionary.org\/wiki\/Category:Kapampangan_lemmas"
+    }
+  },
+  {
+    "word":"bulan",
+    "lemma":"bulan",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"moon",
+    "tl_translation":"buwan",
+    "meaning":"The natural satellite of the earth",
+    "example_sentence":"Kasanting na ning bulan ngeni",
+    "details":"Kapampangan People and Their Language: A Case Study",
+    "source":{
+      "source_id":"acad_001",
+      "link":"https:\/\/www.researchgate.net\/publication\/358840329_Kapampangan_People_and_Their_Language_A_Case_Study"
+    }
+  },
+  {
+    "word":"buldit",
+    "lemma":"buldit",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to explode; burst",
+    "tl_translation":"sumabog",
+    "meaning":"To break apart violently",
+    "example_sentence":"Buldit ya ing paputuk.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bulig",
+    "lemma":"bulig",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to help",
+    "tl_translation":"tumulong",
+    "meaning":"Give assistance",
+    "example_sentence":"Buligan mu ku manlibru.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"bunduk",
+    "lemma":"bunduk",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"mountain",
+    "tl_translation":"bundok",
+    "meaning":"Elevated landform",
+    "example_sentence":"Mekyabe ya king bunduk ing aldo.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"buntuk",
+    "lemma":"buntuk",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"head",
+    "tl_translation":"ulo",
+    "meaning":"The upper part of the body containing the brain.",
+    "example_sentence":"Maragul ya ing buntuk ning lalaki",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"burac",
+    "lemma":"burac",
+    "variants":"burak",
+    "pos":"NOUN",
+    "en_translation":"mud",
+    "tl_translation":"putik",
+    "meaning":"Soft, sticky matter resulting from the mixing of earth and water.",
+    "example_sentence":"Ing asu atyu ya burak",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"buring",
+    "lemma":"buri",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"like",
+    "tl_translation":"gusto",
+    "meaning":"Wanting it",
+    "example_sentence":"E na buring makakayi",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"burulan",
+    "lemma":"burul",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"hill",
+    "tl_translation":"burol",
+    "meaning":"Elevated area lower than a mountain",
+    "example_sentence":"Masanting ya ing burulan a aslagan.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"cacuyug",
+    "lemma":"cuyug",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"inseparable partner",
+    "tl_translation":"kabiyak",
+    "meaning":"A bond between people that is so close and strong it is difficult or impossible to separate",
+    "example_sentence":"Karakal na cacuyug",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"calado",
+    "lemma":"calado",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"jar; earthen pot",
+    "tl_translation":"banga",
+    "meaning":"Vessel for storing water",
+    "example_sentence":"Ing calado pulung ne ning danum.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"caladua",
+    "lemma":"caladua",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"soul; spirit",
+    "tl_translation":"kaluluwa",
+    "meaning":"Non-physical essence of a person",
+    "example_sentence":"Ipamasa ne ning pari ing caladua ra.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"calasag",
+    "lemma":"calasag",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"shield",
+    "tl_translation":"kalasag",
+    "meaning":"Defensive armor",
+    "example_sentence":"Ginamit ne ing calasag king laban.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"calumpang",
+    "lemma":"calumpang",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"indian almond tree",
+    "tl_translation":"talisay",
+    "meaning":"A large shade tree",
+    "example_sentence":"Maragul ing calumpang king plaza.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"camalig",
+    "lemma":"camalig",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"granary",
+    "tl_translation":"kamalig",
+    "meaning":"Small storage house for rice",
+    "example_sentence":"Ing camalig pulung ne ning palay.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"camaru",
+    "lemma":"camaru",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"mole cricket",
+    "tl_translation":"kamaru",
+    "meaning":"Edible insect in Pampanga",
+    "example_sentence":"Mengan la camaru reng anak king barrio.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"daka'p",
+    "lemma":"daka'p",
+    "variants":"dakap",
+    "pos":"VERB",
+    "en_translation":"to catch",
+    "tl_translation":"hulihin",
+    "meaning":"To seize, grab, or capture something or someone",
+    "example_sentence":"Daka'p mu ya ing bola king laro",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"dakal",
+    "lemma":"dakal",
+    "variants":"dakal’",
+    "pos":"ADJ",
+    "en_translation":"plenty",
+    "tl_translation":"marami",
+    "meaning":"Numerous, many",
+    "example_sentence":"Dakal la reng pamangan king mesa.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"dala'mat",
+    "lemma":"dalamat",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"a serious sickness",
+    "tl_translation":"malubhang karamdaman",
+    "meaning":"Referes to severe or life-threatining illness",
+    "example_sentence":"E dala'mat ya ing bata uling malala ing karamdaman na",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"dalan",
+    "lemma":"dalan",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"road",
+    "tl_translation":"daan",
+    "meaning":"A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.",
+    "example_sentence":"Mepalaris ya ketang dalan.",
+    "details":"Kapampangan Lemmas",
+    "source":{
+      "source_id":"dict_009",
+      "link":"https:\/\/en.wiktionary.org\/wiki\/Category:Kapampangan_lemmas"
+    }
+  },
+  {
+    "word":"dalu'm",
+    "lemma":"dalu'm",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"complaint",
+    "tl_translation":"reklamo",
+    "meaning":"A statement expressing dissatisfaction or grievance",
+    "example_sentence":"E dalu'm da king serbisyo ning retawran",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"damara",
+    "lemma":"damara",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"shade",
+    "tl_translation":"lilim",
+    "meaning":"A sheltered or shadowed area often under a tree or structure",
+    "example_sentence":"Lalam ning damara kami manungkul king aldo",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"damu'sak",
+    "lemma":"damu'sak",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to step on",
+    "tl_translation":"yapakan",
+    "meaning":"To place your foot on someting, often accidentally or deliberately",
+    "example_sentence":"E damu'sak ya ing bata king albuga",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"damulag",
+    "lemma":"damulag",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"carabao",
+    "tl_translation":"kalabaw",
+    "meaning":"Large domesticated water buffalo",
+    "example_sentence":"Ing damulag magsadsad ya king danum.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"danum",
+    "lemma":"danum",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"water",
+    "tl_translation":"tubig",
+    "meaning":"a colorless, transparent, odorless liquid that forms the seas, lakes, rivers, and rain.",
+    "example_sentence":"Bisa kang danum?",
+    "details":"Kapampangan Lemmas",
+    "source":{
+      "source_id":"dict_009",
+      "link":"https:\/\/en.wiktionary.org\/wiki\/Category:Kapampangan_lemmas"
+    }
+  },
+  {
+    "word":"dapit",
+    "lemma":"dapit",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"shore; riverbank",
+    "tl_translation":"pampang",
+    "meaning":"Edge of a body of water",
+    "example_sentence":"Menakit kung asan lulundag king dapit.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"dara",
+    "lemma":"dara",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"aunt",
+    "tl_translation":"tiya\/tita",
+    "meaning":"Sister of father or mother",
+    "example_sentence":"Dara ko ang naghatid sa akin sa eskwela.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"daragul",
+    "lemma":"dagul",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"grow bigger",
+    "tl_translation":"lumaki",
+    "meaning":"To increase in size, height, or magnitude",
+    "example_sentence":"Daragul la ing anak king metung a banua",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"dayat",
+    "lemma":"dayat",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"sea; ocean",
+    "tl_translation":"dagat",
+    "meaning":"Vast body of salt water",
+    "example_sentence":"Makayaliw ya ing dayat king La Union.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"dilat",
+    "lemma":"dilat",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to lick",
+    "tl_translation":"dilaan",
+    "meaning":"To pass the tongue over something usually to taste or clean",
+    "example_sentence":"Dilat ne ing aso ing kutsara",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"dinalan",
+    "lemma":"dinalan",
+    "variants":"None",
+    "pos":"NUM",
+    "en_translation":"one hundred",
+    "tl_translation":"isang daan",
+    "meaning":"Number representing “100”",
+    "example_sentence":"Dinalan la reng estudyante.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"dinatang",
+    "lemma":"datang",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"came",
+    "tl_translation":"dumating",
+    "meaning":"To come\/ to arrive",
+    "example_sentence":"Dinatang ne ing atchi mu?",
+    "details":"Speaking Kapampangan",
+    "source":{
+      "source_id":"text_004",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"ditak",
+    "lemma":"ditak",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"few",
+    "tl_translation":"kaunti",
+    "meaning":"Small number",
+    "example_sentence":"Ditak la reng eganaganang bisitas.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"emalyari",
+    "lemma":"yari",
+    "variants":"None",
+    "pos":"ADV",
+    "en_translation":"cannot be",
+    "tl_translation":"hindi puwede",
+    "meaning":"An expression of impossibility, denial, or prohibition",
+    "example_sentence":"emalyaring e me balu",
+    "details":"Capampángan Dictionary",
+    "source":{
+      "source_id":"dict_004",
+      "link":"http:\/\/210.213.69.3\/dicciunariu\/"
+    }
+  },
+  {
+    "word":"gabac",
+    "lemma":"gabac",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"torn (like a cloth)",
+    "tl_translation":"punit",
+    "meaning":"Past participle of tear",
+    "example_sentence":"Gabac ya ing malan ng apu mu",
+    "details":"Capampángan Dictionary",
+    "source":{
+      "source_id":"dict_004",
+      "link":"http:\/\/210.213.69.3\/dicciunariu\/"
+    }
+  },
+  {
+    "word":"galo",
+    "lemma":"galo",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"move",
+    "tl_translation":"galaw",
+    "meaning":"To change position.",
+    "example_sentence":"Galo ya ing mesa",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"gamat",
+    "lemma":"gamat",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"hand",
+    "tl_translation":"kamay",
+    "meaning":"The body part used to hold things",
+    "example_sentence":"Ing gamat na mabukud king pamagobra.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"gatpanapun",
+    "lemma":"gatpanapun",
+    "variants":"panapun",
+    "pos":"NOUN",
+    "en_translation":"afternoon",
+    "tl_translation":"hapon",
+    "meaning":"The part of the day after noon",
+    "example_sentence":"Dakal tau king palaza king gatpanapun",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"gulasyo",
+    "lemma":"gulas",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to shou",
+    "tl_translation":"sumigaw",
+    "meaning":"Used to express sudden or loud vocal reactions",
+    "example_sentence":"Gulasyo ya king sakit",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"gulut",
+    "lemma":"gulut",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to cut; to slice",
+    "tl_translation":"hiwain",
+    "meaning":"To divide with a sharp tool",
+    "example_sentence":"Gilitan mu ing manuk king mesa.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"ima",
+    "lemma":"ima",
+    "variants":"indu",
+    "pos":"NOUN",
+    "en_translation":"mother",
+    "tl_translation":"ina",
+    "meaning":"Female parent",
+    "example_sentence":"Ima masarap magluto ng adobo.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"ing",
+    "lemma":"ing",
+    "variants":"None",
+    "pos":"DET",
+    "en_translation":"the",
+    "tl_translation":"ang",
+    "meaning":"Specify a particular noun or noun phrase that is already known or understood from the context",
+    "example_sentence":"Ing alamat na nang ingkong mu.",
+    "details":"Atin Cu Pung Singsing Lyrics",
+    "source":{
+      "source_id":"song_003",
+      "link":"https:\/\/lyrics.lyricfind.com\/lyrics\/philippine-madrigal-singers-atin-cu-pung-singsing"
+    }
+  },
+  {
+    "word":"ingkong",
+    "lemma":"ingkong",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"grandfather",
+    "tl_translation":"lolo",
+    "meaning":"Father of one’s parent",
+    "example_sentence":"Kaburi ng ingong magkwentu alamat.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"ka",
+    "lemma":"ka",
+    "variants":"None",
+    "pos":"PRON",
+    "en_translation":"you",
+    "tl_translation":"ka",
+    "meaning":"second person singular",
+    "example_sentence":"E ka gagalo.",
+    "details":"Kapampangan Machine-readable Dictionary",
+    "source":{
+      "source_id":"dict_008",
+      "link":"https:\/\/kaikki.org\/dictionary\/Kapampangan\/"
+    }
+  },
+  {
+    "word":"kabaldugan",
+    "lemma":"baldug",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"meaning",
+    "tl_translation":"kahulugan",
+    "meaning":"The meaning or definition of a word or statement",
+    "example_sentence":"Nanu ya ing kabaldugan ning amanu?",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"kabangal",
+    "lemma":"bangal",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"counterpart",
+    "tl_translation":"kapareha",
+    "meaning":"One of a pair; the matching or corresponding item\/person",
+    "example_sentence":"Ing sapatos a iti kabangal da reng kayang pares",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"kaka'k",
+    "lemma":"kaka'k",
+    "variants":"kakak",
+    "pos":"VERB",
+    "en_translation":"to stutter",
+    "tl_translation":"nauutal",
+    "meaning":"To speak with pauses or repeated sounds, usually involuntarily",
+    "example_sentence":"E kaka'l ya uling nerelaks yang magsalita",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"kaluguran",
+    "lemma":"lugud",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"beloved",
+    "tl_translation":"minamahal",
+    "meaning":"A person you deeply care for.",
+    "example_sentence":"Kaluguran ku ka",
+    "details":"100 Common Kapampangan Words (A to Y)",
+    "source":{
+      "source_id":"text_002",
+      "link":"https:\/\/discover.hubpages.com\/education\/100-Common-Kapampangan-Words-A-Y"
+    }
+  },
+  {
+    "word":"kalupa",
+    "lemma":"kalupa",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"look-alike",
+    "tl_translation":"kamuka",
+    "meaning":"someone or something that looks alike or resembles another.",
+    "example_sentence":"Kalupa mu ya ing kakung ibpa.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"kami",
+    "lemma":"kami",
+    "variants":"None",
+    "pos":"PRON",
+    "en_translation":"we",
+    "tl_translation":"tayo",
+    "meaning":"Used by a speaker to refer to himself or herself and one or more other people considered together.",
+    "example_sentence":"Alang kami.",
+    "details":"Kapampangan Lemmas",
+    "source":{
+      "source_id":"dict_009",
+      "link":"https:\/\/en.wiktionary.org\/wiki\/Category:Kapampangan_lemmas"
+    }
+  },
+  {
+    "word":"kapatad",
+    "lemma":"kapatad",
+    "variants":"kapatid",
+    "pos":"NOUN",
+    "en_translation":"sibling",
+    "tl_translation":"kapatid",
+    "meaning":"Brother or sister",
+    "example_sentence":"Mahalaga ing bawat kapatad king pamilya.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"kapilan",
+    "lemma":"kapilan",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to choose",
+    "tl_translation":"pumili",
+    "meaning":"Means “to choose” or “to select” something",
+    "example_sentence":"Kapilan mu ing masanting a damit",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"kapitnaq",
+    "lemma":"kapitnaq",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"half",
+    "tl_translation":"kalahati",
+    "meaning":"Refers to one of two equal parts",
+    "example_sentence":"E ku pa makaatapos, metung yang kapitnaq ning trabaho.",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"kasalusungan",
+    "lemma":"alusung",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"present",
+    "tl_translation":"kasalukuyan",
+    "meaning":"Refers to the current time",
+    "example_sentence":"Kasalusungan ya ing okasyun, al ya pa maganap ing aliwa.",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"kasara",
+    "lemma":"kasa",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"close",
+    "tl_translation":"isara",
+    "meaning":"Used to describe something already shut often the eyes.",
+    "example_sentence":"Kasara da reng mata.",
+    "details":"Ara Muna - Oh Jo Kaluguran Da Ka Lyrics",
+    "source":{
+      "source_id":"song_002",
+      "link":"https:\/\/www.songlyrics.com\/ara-muna\/oh-jo-kaluguran-da-ka-lyrics\/"
+    }
+  },
+  {
+    "word":"kasiam",
+    "lemma":"kasiam",
+    "variants":"casiam, kasiyam",
+    "pos":"NUM",
+    "en_translation":"ninth",
+    "tl_translation":"ikasiyam",
+    "meaning":"Constituting number nine in a sequence",
+    "example_sentence":"Kasiam yang anak qng pamilya.",
+    "details":"The Austronesian Comparative Dictionary",
+    "source":{
+      "source_id":"dict_001",
+      "link":"https:\/\/acd.clld.org\/languages\/291"
+    }
+  },
+  {
+    "word":"kayabe",
+    "lemma":"kayabe",
+    "variants":"mikayabe",
+    "pos":"NOUN",
+    "en_translation":"companion",
+    "tl_translation":"kasama",
+    "meaning":"Someone who joins or accompanies.",
+    "example_sentence":"Kayabe ku keng pamangan",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"ken",
+    "lemma":"ken",
+    "variants":"None",
+    "pos":"ADV",
+    "en_translation":"there",
+    "tl_translation":"diyan",
+    "meaning":"In, at, or to that place or position.",
+    "example_sentence":"Ot ken ka metudtud",
+    "details":"Kapampangan Lemmas",
+    "source":{
+      "source_id":"dict_009",
+      "link":"https:\/\/en.wiktionary.org\/wiki\/Category:Kapampangan_lemmas"
+    }
+  },
+  {
+    "word":"keni",
+    "lemma":"keni",
+    "variants":"None",
+    "pos":"ADV",
+    "en_translation":"here",
+    "tl_translation":"dito",
+    "meaning":"Used to indicate location close to the speaker",
+    "example_sentence":"Ume ka keni.",
+    "details":"100 Common Kapampangan Words (A to Y)",
+    "source":{
+      "source_id":"text_002",
+      "link":"https:\/\/discover.hubpages.com\/education\/100-Common-Kapampangan-Words-A-Y"
+    }
+  },
+  {
+    "word":"koya",
+    "lemma":"koya",
+    "variants":"kuya",
+    "pos":"NOUN",
+    "en_translation":"older brother",
+    "tl_translation":"kuya",
+    "meaning":"Male sibling older than oneself",
+    "example_sentence":"Ing koya ku ing tinuru kaku mag-basketball.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"ku",
+    "lemma":"ku",
+    "variants":"ko, cu",
+    "pos":"PRON",
+    "en_translation":"my; mine",
+    "tl_translation":"akin",
+    "meaning":"Used to refer to a thing or things belonging to or associated with the speaker",
+    "example_sentence":"Atin ku pung singsing.",
+    "details":"Atin Cu Pung Singsing Lyrics",
+    "source":{
+      "source_id":"song_003",
+      "link":"https:\/\/lyrics.lyricfind.com\/lyrics\/philippine-madrigal-singers-atin-cu-pung-singsing"
+    }
+  },
+  {
+    "word":"ku'nyat",
+    "lemma":"ku'nyat",
+    "variants":"kunyat",
+    "pos":"ADJ",
+    "en_translation":"tough",
+    "tl_translation":"matibay\/matigas",
+    "meaning":"Describes somethings strong, resilient, or difficult",
+    "example_sentence":"Ku'nyat ya ing kahoy a gagamitan king balay",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"kulitan",
+    "lemma":"kulitan",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"native kapampangan script",
+    "tl_translation":"baybayin",
+    "meaning":"Ancient Kapampangan writing system",
+    "example_sentence":"Ing kulitan gagamitan da pa king pamanyulat a tradisyunal.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"kutang",
+    "lemma":"kutang",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"question",
+    "tl_translation":"tanong",
+    "meaning":"Refers to a question, inquiry or doubt",
+    "example_sentence":"Kutang da ku king maestru tungkul king aralin",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"kutsara",
+    "lemma":"kutsara",
+    "variants":"kutiara, kutyara",
+    "pos":"NOUN",
+    "en_translation":"spoon",
+    "tl_translation":"kutsara",
+    "meaning":"A utensil with a handle and a shallow, oval-shaped bowl used for eating",
+    "example_sentence":"Gamitan mu ing kutsara para kaing mangan",
+    "details":"Kapampangan Machine-readable Dictionary",
+    "source":{
+      "source_id":"dict_008",
+      "link":"https:\/\/kaikki.org\/dictionary\/Kapampangan\/"
+    }
+  },
+  {
+    "word":"kwa'lta",
+    "lemma":"kwa'lta",
+    "variants":"kwarta",
+    "pos":"NOUN",
+    "en_translation":"money",
+    "tl_translation":"pera",
+    "meaning":"Refers to currency or money used for transactions",
+    "example_sentence":"E dakal yang kwa'lta king bulsa na",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"laguiu",
+    "lemma":"laguiu",
+    "variants":"lagyu",
+    "pos":"NOUN",
+    "en_translation":"name",
+    "tl_translation":"pangalan",
+    "meaning":"A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+    "example_sentence":"Nanu ka laguiu?",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"lagwa",
+    "lemma":"lagwa",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"fast",
+    "tl_translation":"mabilis",
+    "meaning":"Moving quickly",
+    "example_sentence":"Lagwa ya ing asu",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"lalau",
+    "lemma":"lalau",
+    "variants":"malalau",
+    "pos":"ADJ",
+    "en_translation":"wide",
+    "tl_translation":"malapad",
+    "meaning":"Having a large extent from side to side.",
+    "example_sentence":"Malau ya ing dalan",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"lampas",
+    "lemma":"lampas",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to go beyond; to pass over",
+    "tl_translation":"lumampas",
+    "meaning":"To exceed or go past something",
+    "example_sentence":"E ka lalampas king tulay.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"lawen",
+    "lemma":"lawen",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to look; to see",
+    "tl_translation":"tingnan",
+    "meaning":"To direct one’s eyes at something",
+    "example_sentence":"Lawen me ing bulung a malati.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"lima",
+    "lemma":"lima",
+    "variants":"None",
+    "pos":"NUM",
+    "en_translation":"five",
+    "tl_translation":"lima",
+    "meaning":"Number representing “5”",
+    "example_sentence":"Lima la reng susi.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"lukluk",
+    "lemma":"lukluk",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"sit",
+    "tl_translation":"umupo",
+    "meaning":"Action of sitting down",
+    "example_sentence":"Lukluk ka keni",
+    "details":"100 Common Kapampangan Words (A to Y)",
+    "source":{
+      "source_id":"text_002",
+      "link":"https:\/\/discover.hubpages.com\/education\/100-Common-Kapampangan-Words-A-Y"
+    }
+  },
+  {
+    "word":"lumawe",
+    "lemma":"lawe",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to look",
+    "tl_translation":"tumingin",
+    "meaning":"Used to look something or someone",
+    "example_sentence":"Lumawe ya kaku ing anak.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"mabanglu",
+    "lemma":"banglu",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"fragrant",
+    "tl_translation":"mabango",
+    "meaning":"Used to describe having pleasant smell",
+    "example_sentence":"Mabanglu ya ing sampaga.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"mabangnas",
+    "lemma":"bangna's",
+    "variants":"bangnas",
+    "pos":"ADJ",
+    "en_translation":"stale",
+    "tl_translation":"panis",
+    "meaning":"Describes food or items that are no longer fresh.",
+    "example_sentence":"Mabangas ne ing nasi, ali ne makan",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"mabuctut",
+    "lemma":"buctut",
+    "variants":"mabuktut",
+    "pos":"ADJ",
+    "en_translation":"pregnant",
+    "tl_translation":"buntis",
+    "meaning":"A woman or female animal) having a child or young developing in the uterus",
+    "example_sentence":"Mabuktut ya itang anac ning kapitbale tamu",
+    "details":"Ing Pangabait ng Jesus",
+    "source":{
+      "source_id":"text_003",
+      "link":"https:\/\/bloomlibrary.org\/#!\/player\/Zxt0zIGjP2?lang=pam"
+    }
+  },
+  {
+    "word":"macaguising",
+    "lemma":"guising",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"awake",
+    "tl_translation":"gising",
+    "meaning":"Not asleep",
+    "example_sentence":"Ot macaguising ka pa alex?",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"macaladlad",
+    "lemma":"ladlad",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"unfurl",
+    "tl_translation":"iladlad",
+    "meaning":"Make or become spread out from a rolled or folded state, especially in order to be open to the wind.",
+    "example_sentence":"Ot macaladlad ya malan mu?",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"macapulut",
+    "lemma":"pulut",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"pick up",
+    "tl_translation":"pulot",
+    "meaning":"Take hold of and lift or move someone or something",
+    "example_sentence":"Ing asung macabaluctut butul man e macapulut",
+    "details":"Kapampangan Nation",
+    "source":{
+      "source_id":"prov_001",
+      "link":"https:\/\/kapampangannation.wordpress.com\/2012\/10\/11\/pampango-proverbs\/"
+    }
+  },
+  {
+    "word":"macatucnang",
+    "lemma":"tucnang",
+    "variants":"makatuknang",
+    "pos":"VERB",
+    "en_translation":"resident",
+    "tl_translation":"nakatira",
+    "meaning":"A person who lives somewhere permanently or on a long-term basis",
+    "example_sentence":"Non ya macatucnang?",
+    "details":"Speaking Kapampangan",
+    "source":{
+      "source_id":"text_004",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"madagul",
+    "lemma":"dagul",
+    "variants":"maragul",
+    "pos":"ADJ",
+    "en_translation":"big",
+    "tl_translation":"malaki",
+    "meaning":"Of large size",
+    "example_sentence":"Madagul ya ing bale.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"magkyuapus",
+    "lemma":"kyuapus",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"imitate",
+    "tl_translation":"gumaya",
+    "meaning":"To copy, mimic or imitate someone's actions or behavior",
+    "example_sentence":"Magkyuapus yang aldo keng ustu king klase",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"maglingun",
+    "lemma":"lingun",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"attend",
+    "tl_translation":"daluhan",
+    "meaning":"To provide a service to someone, especially as part of your job",
+    "example_sentence":"Sopan me i mama mu maglingun ketang kapatad mu",
+    "details":"Ing Pangabait ng Jesus",
+    "source":{
+      "source_id":"text_003",
+      "link":"https:\/\/bloomlibrary.org\/#!\/player\/Zxt0zIGjP2?lang=pam"
+    }
+  },
+  {
+    "word":"magobra",
+    "lemma":"obra",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to work",
+    "tl_translation":"magtrabaho",
+    "meaning":"Used to describe the act of working, doing a job, or performing labor",
+    "example_sentence":"Magobra ku king ospital.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"makaibe",
+    "lemma":"kaibe",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"sociable",
+    "tl_translation":"palakaibigan",
+    "meaning":"describes someone who is friendly, easy to talk to, or good at getting along with others.",
+    "example_sentence":"Makaibe ya ing bayung titser keng klase.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"makarinyo",
+    "lemma":"karinyo",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"loving",
+    "tl_translation":"mapagmahal",
+    "meaning":"Describes someone who shows love or affection",
+    "example_sentence":"Makarinyo ya ing inang aliwa king anak na",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"makuyad",
+    "lemma":"kuyad",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"short",
+    "tl_translation":"maikli",
+    "meaning":"Describes something that has little length or duration",
+    "example_sentence":"Makuyad ya ing tali, e ya lalaman ing kayang gagamitan",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"malabug",
+    "lemma":"labug",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"blurry",
+    "tl_translation":"malabo",
+    "meaning":"Not clear.",
+    "example_sentence":"Malabug ya ing litrato",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"malabung",
+    "lemma":"labung",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"leafy",
+    "tl_translation":"may dahon",
+    "meaning":"Describes a plant or treee that has many leaves",
+    "example_sentence":"Malabung yang pun yang dake king hardin",
+    "details":"Kapampangan Dictionary By ",
+    "source":{
+      "source_id":"dict_002",
+      "link":"https:\/\/dokumen.pub\/kapampangan-dictionary-9780824881122-9780824881139.html"
+    }
+  },
+  {
+    "word":"malagu",
+    "lemma":"lagu",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"beautiful",
+    "tl_translation":"maganda",
+    "meaning":"Pleasing the senses or mind aesthetically. Generally used for the beauty of a female person",
+    "example_sentence":"Malagu ya ing minamahal ku.",
+    "details":"Kapampangan Poems: Celebrating Love in Verses",
+    "source":{
+      "source_id":"text_001",
+      "link":"https:\/\/poemverse.org\/kapampangan-poems-about-love\/"
+    }
+  },
+  {
+    "word":"malangi",
+    "lemma":"langi",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"dry",
+    "tl_translation":"tuyo",
+    "meaning":"Describing something without moisture.",
+    "example_sentence":"Malangî la reng damít a sinampay.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"malati",
+    "lemma":"malati",
+    "variants":"malati’",
+    "pos":"ADJ",
+    "en_translation":"small",
+    "tl_translation":"maliit",
+    "meaning":"Of small size",
+    "example_sentence":"Malati la reng ebun.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"malawut",
+    "lemma":"malawut",
+    "variants":"None",
+    "pos":"MALAYO",
+    "en_translation":"far",
+    "tl_translation":"malayo",
+    "meaning":"Great distance.",
+    "example_sentence":"Malawut ya ing dalan",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"malino",
+    "lemma":"malino",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"clear",
+    "tl_translation":"malinaw",
+    "meaning":"Easy to see, not cloudy.",
+    "example_sentence":"Malino ya ing danum",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"malugud",
+    "lemma":"lugud",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"affectionate",
+    "tl_translation":"mapagmahal",
+    "meaning":"Readily feeling or showing fondness or tenderness",
+    "example_sentence":"Malugud yang manese kareng matua",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"malutu",
+    "lemma":"lutu",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"cooked",
+    "tl_translation":"luto",
+    "meaning":"Prepared with heat for eating",
+    "example_sentence":"Malutu ya pa pota ing adobo king kalan.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"mangaplas",
+    "lemma":"aplas",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"sting",
+    "tl_translation":"hapdi",
+    "meaning":"A kind of pain; something as sudden and painful as being stung",
+    "example_sentence":"Mangaplas ya itang sugat.",
+    "details":"Kapampangan Nation",
+    "source":{
+      "source_id":"prov_001",
+      "link":"https:\/\/kapampangannation.wordpress.com\/2012\/10\/11\/pampango-proverbs\/"
+    }
+  },
+  {
+    "word":"manibatan",
+    "lemma":"ibat",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"from",
+    "tl_translation":"mula",
+    "meaning":"Indicating the point in space at which a journey, motion, or action starts",
+    "example_sentence":"Manibatan ya pa king Angeles",
+    "details":"Ing Pangabait ng Jesus",
+    "source":{
+      "source_id":"text_003",
+      "link":"https:\/\/bloomlibrary.org\/#!\/player\/Zxt0zIGjP2?lang=pam"
+    }
+  },
+  {
+    "word":"manuyab",
+    "lemma":"uyab",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"yawn",
+    "tl_translation":"hikab",
+    "meaning":"To open the mouth wide and take a deep breath usually as an involuntary reaction to fatigue or boredom",
+    "example_sentence":"Ala pa man manuyab na ka pin",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"manyaman",
+    "lemma":"nyaman",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"delicious",
+    "tl_translation":"masarap",
+    "meaning":"Used to describe having a pleasant flavor",
+    "example_sentence":"Manyáman ya ing pamangan Kapampangan",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"mapali",
+    "lemma":"mapali",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"hot",
+    "tl_translation":"mainit",
+    "meaning":"High temperature",
+    "example_sentence":"Mapali ing kape.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"maranup",
+    "lemma":"danup",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"hunger",
+    "tl_translation":"gutom",
+    "meaning":"A feeling of discomfort or weakness caused by lack of food, coupled with the desire to eat",
+    "example_sentence":"Maranup na ku",
+    "details":"Kapampangan Nation",
+    "source":{
+      "source_id":"prov_001",
+      "link":"https:\/\/kapampangannation.wordpress.com\/2012\/10\/11\/pampango-proverbs\/"
+    }
+  },
+  {
+    "word":"marimla",
+    "lemma":"marimla",
+    "variants":"marimla’",
+    "pos":"ADJ",
+    "en_translation":"cold",
+    "tl_translation":"malamig",
+    "meaning":"Low temperature, chilly",
+    "example_sentence":"Marimla ing danum king batis.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"marok",
+    "lemma":"marok",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"bad; evil",
+    "tl_translation":"masama",
+    "meaning":"Not good, wicked",
+    "example_sentence":"Marok ya ing gawa na.",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"masalese",
+    "lemma":"salese",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"proper",
+    "tl_translation":"ayos",
+    "meaning":"decent",
+    "example_sentence":"Masalese ya ing anak.",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"masanting",
+    "lemma":"masanting",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"nice; beautiful",
+    "tl_translation":"maganda",
+    "meaning":"Pleasant; agreeable; satisfactory. Typically refers to the beauty of a thing or a man",
+    "example_sentence":"Masanting ya pagkakagawa.",
+    "details":"Atin Cu Pung Singsing Lyrics",
+    "source":{
+      "source_id":"song_003",
+      "link":"https:\/\/lyrics.lyricfind.com\/lyrics\/philippine-madrigal-singers-atin-cu-pung-singsing"
+    }
+  },
+  {
+    "word":"masias",
+    "lemma":"masias",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"hard",
+    "tl_translation":"matigas",
+    "meaning":"Solid, firm, and rigid; not easily broken, bent, or pierced",
+    "example_sentence":"Masias ne ing nasi",
+    "details":"Kapampangan Nation",
+    "source":{
+      "source_id":"prov_001",
+      "link":"https:\/\/kapampangannation.wordpress.com\/2012\/10\/11\/pampango-proverbs\/"
+    }
+  },
+  {
+    "word":"masikan",
+    "lemma":"sikan",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"strong",
+    "tl_translation":"malaks",
+    "meaning":"Describes someone or something that has great strength or power.",
+    "example_sentence":"Masikan ya ing lalaki king pamagobra.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"mataram",
+    "lemma":"taram",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"sharp",
+    "tl_translation":"matalim",
+    "meaning":"With a cutting edge.",
+    "example_sentence":"Mataram ya ing kampi",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"matas",
+    "lemma":"matas",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"high",
+    "tl_translation":"mataas",
+    "meaning":"Elavated position",
+    "example_sentence":"Matas ya ing tulay",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"matsura",
+    "lemma":"matsura",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"ugly",
+    "tl_translation":"pangit",
+    "meaning":"Not pleasing to the eyes.",
+    "example_sentence":"Matsura ya ing balay",
+    "details":"Kapampangan Phrases for Travelling",
+    "source":{
+      "source_id":"dict_012",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"matua",
+    "lemma":"matua",
+    "variants":"matwa",
+    "pos":"ADJ",
+    "en_translation":"old",
+    "tl_translation":"matanda",
+    "meaning":"Having lived for a long time; no longer young",
+    "example_sentence":"Matua ne ing bale mi",
+    "details":"Ing Pangabait ng Jesus",
+    "source":{
+      "source_id":"text_003",
+      "link":"https:\/\/bloomlibrary.org\/#!\/player\/Zxt0zIGjP2?lang=pam"
+    }
+  },
+  {
+    "word":"matutuknang",
+    "lemma":"tuknang",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"live; reside",
+    "tl_translation":"tumira",
+    "meaning":"To stay or dwell in a place.",
+    "example_sentence":"Mitutuknang la king Angeles",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"mayap",
+    "lemma":"mayap",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"good; fine",
+    "tl_translation":"mabuti",
+    "meaning":"Describes quality or state.",
+    "example_sentence":"Mayap a ugtu",
+    "details":"Learning to Speak Kapampangan",
+    "source":{
+      "source_id":"text_005",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"mestra",
+    "lemma":"mestra",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"teacher",
+    "tl_translation":"guro",
+    "meaning":"A person who teaches",
+    "example_sentence":"E ke man mestra",
+    "details":"Speaking Kapampangan",
+    "source":{
+      "source_id":"text_004",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"metung",
+    "lemma":"metung",
+    "variants":"mitu, mituŋ",
+    "pos":"NUM",
+    "en_translation":"one",
+    "tl_translation":"isa",
+    "meaning":"Number representing “1”",
+    "example_sentence":"Atin kung metung a lapis.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"mibait",
+    "lemma":"bait",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"born",
+    "tl_translation":"pinanganak",
+    "meaning":"Come into existence as a result of birth",
+    "example_sentence":"Mibait ku king New York",
+    "details":"Speaking Kapampangan",
+    "source":{
+      "source_id":"text_004",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"mibangun",
+    "lemma":"bangun",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"get up",
+    "tl_translation":"bumangon",
+    "meaning":"Rise from bed after sleeping",
+    "example_sentence":"Rugo ne ot eka pa mibangun ken",
+    "details":"Kapampangan People and Their Language: A Case Study",
+    "source":{
+      "source_id":"acad_001",
+      "link":"https:\/\/www.researchgate.net\/publication\/358840329_Kapampangan_People_and_Their_Language_A_Case_Study"
+    }
+  },
+  {
+    "word":"mitauli",
+    "lemma":"tauli",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"late",
+    "tl_translation":"nahuli",
+    "meaning":"Doing something or taking place after the expected, proper, or usual time",
+    "example_sentence":"I Alex metauli ne nanaman",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"mitmuk",
+    "lemma":"mitmuk",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to shrink; to contract",
+    "tl_translation":"lumiit",
+    "meaning":"To become smaller in size",
+    "example_sentence":"Ing panyam mitmuk uling mepali ya.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"murit",
+    "lemma":"murit",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"ignorant",
+    "tl_translation":"mangmang",
+    "meaning":"used to insult someone’s intelligence or behavior",
+    "example_sentence":"E ku buri deng murit a makiabe king usapan.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"nabengi",
+    "lemma":"bengi",
+    "variants":"None",
+    "pos":"ADV",
+    "en_translation":"last night",
+    "tl_translation":"kagabi",
+    "meaning":"The evening or night immediately before the present",
+    "example_sentence":"Mumuran nabengi",
+    "details":"Capampángan Dictionary",
+    "source":{
+      "source_id":"dict_004",
+      "link":"http:\/\/210.213.69.3\/dicciunariu\/"
+    }
+  },
+  {
+    "word":"nanu",
+    "lemma":"nanu",
+    "variants":"None",
+    "pos":"DET",
+    "en_translation":"what",
+    "tl_translation":"ano",
+    "meaning":"Question word used to inquire about things or occupations.",
+    "example_sentence":"Nanu ya ing obra mu",
+    "details":"Learning to Speak Kapampangan",
+    "source":{
+      "source_id":"text_005",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"ning",
+    "lemma":"ning",
+    "variants":"None",
+    "pos":"ADP",
+    "en_translation":"of; belonging to",
+    "tl_translation":"ng",
+    "meaning":"Marks possession or relation between words",
+    "example_sentence":"Ing bale ning pari malati ya.",
+    "details":"Kapampangan Dictionary ",
+    "source":{
+      "source_id":"dict_007",
+      "link":"https:\/\/www.tagaloglang.com\/kapampangan-dictionary\/"
+    }
+  },
+  {
+    "word":"nung",
+    "lemma":"nung",
+    "variants":"None",
+    "pos":"CONJ",
+    "en_translation":"if",
+    "tl_translation":"kung",
+    "meaning":"Used to express a condition (\"if\")or time reference (\"when\")",
+    "example_sentence":"Nung menibat ka pa mura, dakal ka sanang abalu.",
+    "details":"Kapampangan Dictionary ",
+    "source":{
+      "source_id":"dict_007",
+      "link":"https:\/\/www.tagaloglang.com\/kapampangan-dictionary\/"
+    }
+  },
+  {
+    "word":"ospital",
+    "lemma":"ospital",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"hospital",
+    "tl_translation":"ospital",
+    "meaning":"An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+    "example_sentence":"Atchu ya pa ospital?",
+    "details":"Kapampangan Center",
+    "source":{
+      "source_id":"dict_010",
+      "link":"https:\/\/kapampangancenter.org\/kapampangantranslator\/"
+    }
+  },
+  {
+    "word":"pacalulu",
+    "lemma":"calulu",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"mercy",
+    "tl_translation":"awa",
+    "meaning":"Show compassion or forgiveness to",
+    "example_sentence":"Manyad kang pacalulu king Guinu",
+    "details":"Capampángan Dictionary",
+    "source":{
+      "source_id":"dict_004",
+      "link":"http:\/\/210.213.69.3\/dicciunariu\/"
+    }
+  },
+  {
+    "word":"palisan",
+    "lemma":"palis",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to sweep",
+    "tl_translation":"walisin",
+    "meaning":"Used to sweep somthing",
+    "example_sentence":"Palisan mu ing salikut king silid",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"pantunan",
+    "lemma":"pantunan",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"search",
+    "tl_translation":"hanapin",
+    "meaning":"Indicates an action specifically the act of searching",
+    "example_sentence":"Puntanan daka",
+    "details":"Ara Muna - Oh Jo Kaluguran Da Ka Lyrics",
+    "source":{
+      "source_id":"song_002",
+      "link":"https:\/\/www.songlyrics.com\/ara-muna\/oh-jo-kaluguran-da-ka-lyrics\/"
+    }
+  },
+  {
+    "word":"pasbul",
+    "lemma":"pasbul",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"door",
+    "tl_translation":"pinto",
+    "meaning":"Refers to a door, gate, or entryway into a place.",
+    "example_sentence":"Isara me ing pasbul ban e makasulud deng asu.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"pengari",
+    "lemma":"pengari",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"parent",
+    "tl_translation":"magulang",
+    "meaning":"Either father or mother",
+    "example_sentence":"Mahigpit la reng pengari ku.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"pilan",
+    "lemma":"pilan",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"number",
+    "tl_translation":"bilang",
+    "meaning":"used to ask “how many” or refer to a count or quantity",
+    "example_sentence":"Pilan la reng eganak mung anak?",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"pisan",
+    "lemma":"pisan",
+    "variants":"pinsan",
+    "pos":"NOUN",
+    "en_translation":"cousin",
+    "tl_translation":"pinsan",
+    "meaning":"Child of one’s uncle or aunt",
+    "example_sentence":"Kayabe ke ing pisan kung mamyalung.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"pitu",
+    "lemma":"pitu",
+    "variants":"None",
+    "pos":"NUM",
+    "en_translation":"seven",
+    "tl_translation":"pito",
+    "meaning":"Number representing “7”",
+    "example_sentence":"Pitu la reng estudyante.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"quinaung",
+    "lemma":"cawung",
+    "variants":"kawung",
+    "pos":"NOUN",
+    "en_translation":"bark",
+    "tl_translation":"tahol",
+    "meaning":"The sharp explosive cry of certain animals, especially a dog, fox, or seal",
+    "example_sentence":"Alang asung quinaung a e ra queungan; alang meiling e ra quelian",
+    "details":"Kapampangan Nation",
+    "source":{
+      "source_id":"prov_001",
+      "link":"https:\/\/kapampangannation.wordpress.com\/2012\/10\/11\/pampango-proverbs\/"
+    }
+  },
+  {
+    "word":"reng",
+    "lemma":"reng",
+    "variants":"deng",
+    "pos":"PRON",
+    "en_translation":"that; those",
+    "tl_translation":"iyan;iyon",
+    "meaning":"Referring to persons or things that are nearer to the spoken to, than to the speaker",
+    "example_sentence":"Deta la reng manuk ng tatang mo",
+    "details":"Kapampangan Dictionary ",
+    "source":{
+      "source_id":"dict_007",
+      "link":"https:\/\/www.tagaloglang.com\/kapampangan-dictionary\/"
+    }
+  },
+  {
+    "word":"salikut",
+    "lemma":"salikut",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"hide",
+    "tl_translation":"nakatago",
+    "meaning":"To keep out of sight",
+    "example_sentence":"Salikot mu ing regalo ban e ya akit",
+    "details":"100 Common Kapampangan Words (A to Y)",
+    "source":{
+      "source_id":"text_002",
+      "link":"https:\/\/discover.hubpages.com\/education\/100-Common-Kapampangan-Words-A-Y"
+    }
+  },
+  {
+    "word":"sapak",
+    "lemma":"sapak",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to slap; to hit",
+    "tl_translation":"sampal",
+    "meaning":"Strike with the palm",
+    "example_sentence":"Sepak neng Maria ing kapatad na.",
+    "details":"Vocabulary of the Kapampangan Language in Saniush and Dictionary of the Spanish Language in Kapampangan",
+    "source":{
+      "source_id":"dict_006",
+      "link":"https:\/\/siwalangsinukuan.wordpress.com\/wp-content\/uploads\/2017\/05\/bergano.pdf"
+    }
+  },
+  {
+    "word":"sinese",
+    "lemma":"sese",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"look after",
+    "tl_translation":"mag-atindi",
+    "meaning":"Take care of someone or something.",
+    "example_sentence":"Ing apu na ing sinese kaya ning mibait ya",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"siniclod",
+    "lemma":"siclod",
+    "variants":"siklod",
+    "pos":"VERB",
+    "en_translation":"mano (respect)",
+    "tl_translation":"mano",
+    "meaning":"Form of greeting",
+    "example_sentence":"Siniclod na ka kang tatang mu?",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"siyam",
+    "lemma":"siyam",
+    "variants":"siam",
+    "pos":"NUM",
+    "en_translation":"nine",
+    "tl_translation":"siyam",
+    "meaning":"Number representing “9”",
+    "example_sentence":"Siyam la reng manuk.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"sumabi",
+    "lemma":"sabi",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to say",
+    "tl_translation":"magsalita",
+    "meaning":"The actor-focus verb meaning “to say” or “to speak.”",
+    "example_sentence":"Sumabi ya king pamagkatut king klase.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"talatag",
+    "lemma":"talatag",
+    "variants":"mitalatag",
+    "pos":"NOUN",
+    "en_translation":"floor",
+    "tl_translation":"sahig",
+    "meaning":"The lower surface of a room.",
+    "example_sentence":"Malinis ya ing talatag king bale",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"talinga",
+    "lemma":"talinga",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"ear",
+    "tl_translation":"tainga",
+    "meaning":"The organ of hearing.",
+    "example_sentence":"Dakal yang talinga",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"tatang",
+    "lemma":"tatang",
+    "variants":"ibpa",
+    "pos":"NOUN",
+    "en_translation":"father",
+    "tl_translation":"ama",
+    "meaning":"Male parent",
+    "example_sentence":"Ing tatang kung megturu kaku mag bisikleta.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"tikdo",
+    "lemma":"tikdo",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"to stand",
+    "tl_translation":"tumayo",
+    "meaning":"to rise to a standing position.",
+    "example_sentence":"Tikdô ka nung buri mung makiabe.",
+    "details":"Kapampangan .net",
+    "source":{
+      "source_id":"dict_003",
+      "link":"https:\/\/kapampangan.net\/"
+    }
+  },
+  {
+    "word":"tinalbug",
+    "lemma":"talbug",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"bounce",
+    "tl_translation":"talbog",
+    "meaning":"A rebound of a ball or other object",
+    "example_sentence":"Tinalbug ya itang bola king buntuc na",
+    "details":"Corrido qñg bie nang queralandalanan Abu-hasan[microform] : o ing macaguising á Máninap.",
+    "source":{
+      "source_id":"song_001",
+      "link":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/1\/1f\/Corrido_q%C3%B1g_bie_nang_queralandalanan_Abu-hasan.pdf"
+    }
+  },
+  {
+    "word":"tindig",
+    "lemma":"tindig",
+    "variants":"None",
+    "pos":"VERB",
+    "en_translation":"stand",
+    "tl_translation":"tumayo",
+    "meaning":"To rise to an upright position.",
+    "example_sentence":"Mitindig ya king gilid",
+    "details":"Kapampangan Dictionary",
+    "source":{
+      "source_id":"dict_011",
+      "link":"https:\/\/www.scribd.com\/document\/255461541\/Ka-Pampanga-n"
+    }
+  },
+  {
+    "word":"tutu",
+    "lemma":"tutu",
+    "variants":"None",
+    "pos":"ADJ",
+    "en_translation":"true",
+    "tl_translation":"totoo",
+    "meaning":"In accordance with fact or reality",
+    "example_sentence":"Tutu ya kaya itang panyabi da",
+    "details":"Kapampangan People and Their Language: A Case Study",
+    "source":{
+      "source_id":"acad_001",
+      "link":"https:\/\/www.researchgate.net\/publication\/358840329_Kapampangan_People_and_Their_Language_A_Case_Study"
+    }
+  },
+  {
+    "word":"uban",
+    "lemma":"uban",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"grey hairs",
+    "tl_translation":"puting buhok",
+    "meaning":"Hair color of an older person",
+    "example_sentence":"Atin na kang uban.",
+    "details":"Capampángan Dictionary",
+    "source":{
+      "source_id":"dict_004",
+      "link":"http:\/\/210.213.69.3\/dicciunariu\/"
+    }
+  },
+  {
+    "word":"wali",
+    "lemma":"wali",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"younger sibling",
+    "tl_translation":"nakababatang kapatid",
+    "meaning":"Sibling younger than oneself",
+    "example_sentence":"Palagi kung manalese king kapatad ku.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"walu",
+    "lemma":"walu",
+    "variants":"walú",
+    "pos":"NUM",
+    "en_translation":"eight",
+    "tl_translation":"walo",
+    "meaning":"Number representing “8”",
+    "example_sentence":"Walu la reng asu.",
+    "details":"Learn Kapampangan",
+    "source":{
+      "source_id":"dict_005",
+      "link":"https:\/\/kapampangantraveller.com\/blog\/"
+    }
+  },
+  {
+    "word":"ya",
+    "lemma":"ya",
+    "variants":"None",
+    "pos":"PRON",
+    "en_translation":"gender neautral he; she",
+    "tl_translation":"siya",
+    "meaning":"A third-person pronoun, it serves to denote gender neutrality, encapsulating both masculine and feminine references",
+    "example_sentence":"Pilipinu ya",
+    "details":"Kapampangan Lemmas",
+    "source":{
+      "source_id":"dict_009",
+      "link":"https:\/\/en.wiktionary.org\/wiki\/Category:Kapampangan_lemmas"
+    }
+  },
+  {
+    "word":"yabak",
+    "lemma":"yabak",
+    "variants":"None",
+    "pos":"NOUN",
+    "en_translation":"morning",
+    "tl_translation":"umaga",
+    "meaning":"Refers to the time until about 9 AM.",
+    "example_sentence":"Mayap a yabak",
+    "details":"Learning to Speak Kapampangan",
+    "source":{
+      "source_id":"text_005",
+      "link":"https:\/\/zorc.net\/RDZorc\/KAPAMPANGAN~PAMPANGO\/speaking-kapampangan-mirikitani-part1-lesson1-to-21.pdf"
+    }
+  },
+  {
+    "word":"yang",
+    "lemma":"yang",
+    "variants":"None",
+    "pos":"PART",
+    "en_translation":"is",
+    "tl_translation":"ay",
+    "meaning":"Indicates the subject of a sentence.",
+    "example_sentence":"Metung yang timpukan",
+    "details":"Atin Cu Pung Singsing Lyrics",
+    "source":{
+      "source_id":"song_003",
+      "link":"https:\/\/lyrics.lyricfind.com\/lyrics\/philippine-madrigal-singers-atin-cu-pung-singsing"
+    }
+  }
+]
